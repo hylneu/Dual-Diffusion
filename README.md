@@ -1,5 +1,5 @@
 # Dual-Diffusion- Subject-driven Personalized Text-to-Image Generation
-![Logo](images/more visualisation.png)
+![Logo](images/visualisation.png)
 ## Requirements
 
 ```
