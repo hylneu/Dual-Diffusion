@@ -14,4 +14,4 @@
 
 ## Datasets
 Download the [DreamBench Dataset](https://github.com/google/dreambooth)and extract them to dataset/\
-Download Pretrained Model [Stable Diffusion 2-1](https://huggingface.co/stabilityai/stable-diffusion-2-1-base/tree/main)
+Download Pretrained Model Stable Diffusion 2-1.
