@@ -1,5 +1,5 @@
 # Dual-Diffusion- Subject-driven Personalized Text-to-Image Generation
-
+![Screen](image/Figure.png)
 ## Requirements
 
 ```
