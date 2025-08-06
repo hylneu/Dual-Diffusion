@@ -2,7 +2,7 @@
 ![Screen](image/Figure.png)
 
 > **Subject–Driven · Personalized · Text-to-Image Generation**  
-> Built on top of *Stable Diffusion 2-1* and *DreamBench.*
+> Built on top of *Stable Diffusion 2-1* and *DreamBooth.*
 
 ---
 
