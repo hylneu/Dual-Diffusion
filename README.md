@@ -13,5 +13,5 @@
 ``` bash train.sh```
 
 ## Datasets
-Download the [DreamBench Dataset] (https://github.com/google/dreambooth)and extract them to dataset/\
+Download the [DreamBench Dataset] (https://github.com/google/dreambooth) and extract them to dataset/\
 Download Pretrained Model Stable Diffusion 2-1.
