@@ -10,7 +10,7 @@
 
 - **🔄 Dual Training Pipeline** – Combines *Subject Inversion* and *Prompt Editing* for richer personalization.
 - **⚖️ Lightweight & Fast** – Fine-tune in **< 30 min** on a single 16 GB GPU.
-- **📊 SOTA Quality** – Outperforms DreamBooth, LoRA, IP-Adapter, DisenBooth & more on DreamBench.
+- **📊 SOTA Quality** – Outperforms DreamBooth, Custom Diffusion, IP-Adapter, DisenBooth & more on DreamBench.
 - 
 ## 🛠️ Requirements
 
