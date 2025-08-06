@@ -14,16 +14,14 @@
 - 
 ## 🛠️ Requirements
 
-- 💾 **diffusers** `>=0.23.1`
-- 🧠 **open_clip_torch**
-- 🖼️ **torchvision**
-- ⚡ **Hardware**: at least **1 × 16 GB** NVIDIA GPU
+-  **diffusers** `>=0.23.1`
+-  **open_clip_torch**
+-  **torchvision**
+-  **Hardware**: at least **1 × 16 GB** NVIDIA GPU
 
 ## 🏋️ Training
 
-```bash
-bash train.sh
-
+<pre> ```bash bash train.sh ``` </pre>
 
 ## 📚 Datasets
 Download the [DreamBench Dataset] (https://github.com/google/dreambooth) and extract them to dataset/\
