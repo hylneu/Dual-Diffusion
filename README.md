@@ -21,7 +21,7 @@
 
 ## 🏋️ Training
 
-<pre> ```bash bash train.sh ``` </pre>
+<pre>  bash train.sh  </pre>
 
 ## 📚 Datasets
 Download the [DreamBench Dataset] (https://github.com/google/dreambooth) and extract them to dataset/\
